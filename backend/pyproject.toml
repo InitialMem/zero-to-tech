@@ -1,0 +1,6 @@
+[project] 
+name = "zero-to-tech"
+version = "0.1.0"
+dependencies = [
+    "fastapi[standard]>=0.141.1",
+]
